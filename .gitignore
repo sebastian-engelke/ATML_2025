@@ -2,6 +2,7 @@
 *.temp
 temp.*
 temp_*
+tmp_*
 
 
 # Python
